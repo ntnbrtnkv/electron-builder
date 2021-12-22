@@ -6,10 +6,10 @@
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
     "skipLibCheck": true,
-    "strict": true,
+    "strict": false,
     "noUnusedLocals": true,
     "noFallthroughCasesInSwitch": true,
-    "noImplicitReturns": true,
+    "noImplicitReturns": false,
 
     "inlineSources": true,
     "sourceMap": true,
